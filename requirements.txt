@@ -1,0 +1,25 @@
+# --- Core ML & Training ---
+torch
+torchvision
+torchaudio
+
+# --- YOLO & ONNX ---
+ultralytics       # for training YOLO (PyTorch)
+onnx
+onnxruntime
+
+# --- Data & Processing ---
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+scipy
+pyyaml
+
+# --- Visualization & App ---
+streamlit
+
+# --- Optional (useful during training/debugging) ---
+seaborn
+

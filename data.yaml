@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['crack', 'leak', 'no leak', 'water']
+
+roboflow:
+  workspace: jaishreeram
+  project: pipeline_leakage1
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jaishreeram/pipeline_leakage1/dataset/2
